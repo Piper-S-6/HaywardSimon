@@ -1,4 +1,4 @@
-# Hi there, I'm Simon Hayward
+# Hi there, I'm Piper
 Thanks for checking out my profile!
 ## About Me
 * I'm a second year computer science major at Northeastern University, with a concentration in software.
